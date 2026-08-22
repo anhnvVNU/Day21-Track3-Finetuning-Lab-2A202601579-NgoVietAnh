@@ -1,0 +1,4 @@
+# data/checksums.json pins sha256 over these files. autocrlf on Windows rewrites
+# LF -> CRLF on checkout, changing the bytes (not the content) and tripping
+# verify.py's "eval sets unmodified" check for every Windows student. Force LF.
+data/*.jsonl text eol=lf

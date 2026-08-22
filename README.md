@@ -39,7 +39,7 @@ Mọi thứ còn lại là chi tiết kỹ thuật phục vụ hai câu này.
 
 ### Colab (khuyến nghị)
 
-Mở **[`colab/Lab21_RUN_ALL.ipynb`](https://colab.research.google.com/github/hieutrungdao/Day21-Track3-Finetuning-Lab/blob/main/colab/Lab21_RUN_ALL.ipynb)**
+Mở **[`colab/Lab21_RUN_ALL.ipynb`](https://colab.research.google.com/github/anhnvVNU/Day21-Track3-Finetuning-Lab-2A202601579-NgoVietAnh/blob/main/colab/Lab21_RUN_ALL.ipynb)**
 → Runtime → Change runtime type → **T4 GPU** → chạy lần lượt ô 1 → 4.
 
 > **Mỗi lần repo đổi, hãy mở LẠI tab (reload), đừng chỉ reconnect.** Colab đọc mã
