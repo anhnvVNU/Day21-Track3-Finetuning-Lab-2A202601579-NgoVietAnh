@@ -203,4 +203,4 @@ metric tổng.
 - [ ] B2 dataset miền riêng
 - [ ] B3 reasoning-trace collapse
 - [ ] B4 quét rank có kiểm soát
-- [ ] B5 Hugging Face Hub — chưa phát hành công khai
+- [x] B5 Hugging Face Hub — <https://huggingface.co/mob2711/lab21-2A202601579-qwen35-triage-vi>
